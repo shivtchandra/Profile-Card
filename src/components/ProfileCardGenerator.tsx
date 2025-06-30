@@ -46,7 +46,7 @@ const ProfileCardGenerator = () => {
   const [profileData, setProfileData] = useState<ProfileData>({
     name: 'Shiva T',
     email: 'john.doe@example.com',
-    image: '/lovable-uploads/8e8975ce-0767-41e1-868e-22abbd73411f.png',
+    image: 'https://placehold.co/400x400?text=Profile',
     profession: '',
     skills: ['Python', 'PostgreSQL'],
     experience: ''
